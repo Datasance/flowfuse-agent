@@ -14,8 +14,8 @@ spec:
       images:
         registry: 1
         catalogItemId: null
-        x86: emirhandurmus/flowfuse-agent:3.1.3
-        arm: emirhandurmus/flowfuse-agent:3.1.3
+        x86: ghcr.io/datasance/flowfuse-agent:3.1.3
+        arm: ghcr.io/datasance/flowfuse-agent:3.1.3
       container:
         rootHostAccess: false
         cdiDevices: []
